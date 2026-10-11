@@ -9,8 +9,7 @@ index.html          页面本体（单文件，样式与脚本内联）
 assets/             页面配图与动效 GIF
 assets/gallery/     场景画廊动效（30 段 + 6 组参数对比）
 downloads/          插件下载包
-downloads/3D-Sway-<版本>.zip
-downloads/<版本>/RibbonSway.aex
+downloads/3DSway-<版本>.zip
 ```
 
 ## 本地预览
